@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Ayush Saini 👋  <br>A passionate Full Stack Developer who loves building scalable and impactful web applications.<br><br>Tech Stack: MERN, Next.js, TypeScript, Prisma, PostgreSQL, Docker  <br>Currently building AI-powered and real-time collaborative platforms   <br>Strong focus on clean architecture, performance, and user experience  <br><br>I enjoy turning complex problems into simple, beautiful, and efficient solutions.<br><br>📫 Let's connect and build something amazing!
 
 
